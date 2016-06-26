@@ -38,8 +38,6 @@ namespace FibonacciNumbersEven
         {
             if (a % 2 == 0)
             {
-                //Print even row color info
-                //Console.WriteLine("Even");
                 return true;
             }
             else
